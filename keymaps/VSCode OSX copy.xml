@@ -1,0 +1,8 @@
+<keymap version="1" name="VSCode OSX copy" parent="VSCode OSX">
+  <action id="Macro.Format Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+</keymap>
