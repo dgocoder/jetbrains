@@ -1,5 +1,5 @@
 <keymap version="1" name="VSCode OSX copy" parent="VSCode OSX">
-  <action id="Macro.Format Save">
+  <action id="Macro.Format &amp; Save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveAll">
